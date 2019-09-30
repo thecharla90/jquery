@@ -1,0 +1,102 @@
+body {
+background-image: linear-gradient(to bottom right, #FDF0F6,#F0FAFD );
+font-family: "Times New Roman", Times, serif;
+background-repeat: no-repeat;
+width:auto;
+height:auto;
+}
+
+#container{
+   width:1020px;
+    margin: 0 auto; 
+}
+
+header{
+	background-color: #E6BBCD;
+	width:1000px;
+	height:50px;
+    text-align: center;
+    text-decoration:underline;
+    color: #365967;
+}
+
+#navigation{
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+overflow: hidden; 
+  background-image: linear-gradient(to bottom right, #FBDFEB,#A06A92 );
+width:1000px;
+height: 50px;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color:#365967;
+  text-align: center;
+  padding:20px 20px;
+  text-decoration:none;
+}
+
+li a:hover {
+  background-color: #6A4365;
+}
+
+#life{
+    width:326px;
+    height:700px;
+    background-color: #E0F6FF;
+    float:left;
+        margin-right:4px;
+}
+#young{
+   padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+}
+#babyme {
+   float:left;    
+}
+#quinceanera{
+    width:326px;
+    height:700px;
+    background-color: #6CB2CE;
+    float:left;
+    margin-left: 8px;
+    margin-right:8px;
+}
+#quince{
+   padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+}
+#quinceme {
+   float:left;    
+}
+#collection{
+    width:326px;
+    height:700px;
+    background-color: #E0F6FF;
+    float:left;
+    margin-right:8px;
+}
+#dolls{
+  padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+    
+}
+footer{
+	background-color:#E6BBCD;
+	width:1000px;
+	height:50px;
+    text-align: center;
+    text-decoration:underline;
+    color: #365967;
+    clear:both;
+}
+
